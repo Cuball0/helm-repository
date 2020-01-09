@@ -3,9 +3,9 @@ entries:
   base-application:
   - apiVersion: v1
     appVersion: 1.16.0
-    created: "2020-01-09T09:56:03.672803447+01:00"
+    created: "2020-01-09T10:30:44.076587893+01:00"
     description: A Helm chart for Kubernetes
-    digest: 1e158f845b6fbd4483071c9030a0924c3595778454fb03b6af62986e158925b8
+    digest: 12ccb0680978d0f16088a8bb73b2f2c42665ce792f9a6d1f64ba3d1e020faf8f
     name: base-application
     type: application
     urls:
@@ -13,7 +13,7 @@ entries:
     version: 0.1.1
   - apiVersion: v1
     appVersion: 1.16.0
-    created: "2020-01-09T09:56:03.67222973+01:00"
+    created: "2020-01-09T10:30:44.075863538+01:00"
     description: A Helm chart for Kubernetes
     digest: 2e8ba50b199eece6782c8e8e45202382dd26303ef704ff64283a69baf0f980a7
     name: base-application
@@ -21,4 +21,4 @@ entries:
     urls:
     - base-application-0.1.0.tgz
     version: 0.1.0
-generated: "2020-01-09T09:56:03.671487003+01:00"
+generated: "2020-01-09T10:30:44.074928715+01:00"
