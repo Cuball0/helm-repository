@@ -3,7 +3,17 @@ entries:
   base-application:
   - apiVersion: v1
     appVersion: 1.16.0
-    created: "2020-01-09T14:04:44.386380078+01:00"
+    created: "2020-01-09T15:00:15.095438595+01:00"
+    description: A Helm chart for MLOZ Openshift applications
+    digest: 63e7730ae26cd571e51ec619402ebbe8675cee810028280d5bd9f2265278c391
+    name: base-application
+    type: application
+    urls:
+    - base-application-0.1.8.tgz
+    version: 0.1.8
+  - apiVersion: v1
+    appVersion: 1.16.0
+    created: "2020-01-09T15:00:15.094955698+01:00"
     description: A Helm chart for MLOZ Openshift applications
     digest: 54f11039cfe3767ee39aa22d7e9bf14d196eb2c0cb2448ba22182715734ad349
     name: base-application
@@ -13,7 +23,7 @@ entries:
     version: 0.1.7
   - apiVersion: v1
     appVersion: 1.16.0
-    created: "2020-01-09T14:04:44.385622978+01:00"
+    created: "2020-01-09T15:00:15.093787083+01:00"
     description: A Helm chart for MLOZ Openshift applications
     digest: 3af090b1e9bf245f7749d18784673d764bff61aaa692cf00b5333247af42fc37
     name: base-application
@@ -23,7 +33,7 @@ entries:
     version: 0.1.6
   - apiVersion: v1
     appVersion: 1.16.0
-    created: "2020-01-09T14:04:44.384750445+01:00"
+    created: "2020-01-09T15:00:15.093294465+01:00"
     description: A Helm chart for MLOZ Openshift applications
     digest: 982779e18d636c2381e2355d0c33eaabeba1cfb7985ba7b457b8996680df2fae
     name: base-application
@@ -33,7 +43,7 @@ entries:
     version: 0.1.5
   - apiVersion: v1
     appVersion: 1.16.0
-    created: "2020-01-09T14:04:44.384019894+01:00"
+    created: "2020-01-09T15:00:15.092834722+01:00"
     description: A Helm chart for MLOZ Openshift applications
     digest: 665bc92c0b554e1ef6d254513b3233ac4c53d5f6edd8f65e6b31f8d9a57aebda
     name: base-application
@@ -43,7 +53,7 @@ entries:
     version: 0.1.4
   - apiVersion: v1
     appVersion: 1.16.0
-    created: "2020-01-09T14:04:44.383046307+01:00"
+    created: "2020-01-09T15:00:15.092383349+01:00"
     description: A Helm chart for Kubernetes
     digest: 5587424f4c95155cb211bf8ca5cd253234b70bfedf95d4b8044801a57108907d
     name: base-application
@@ -53,7 +63,7 @@ entries:
     version: 0.1.3
   - apiVersion: v1
     appVersion: 1.16.0
-    created: "2020-01-09T14:04:44.381783726+01:00"
+    created: "2020-01-09T15:00:15.091920271+01:00"
     description: A Helm chart for Kubernetes
     digest: b0dca38522ac0c9e6d722bdf981d3c35bb08cdf934f852140ab3d8d4d9676918
     name: base-application
@@ -63,7 +73,7 @@ entries:
     version: 0.1.2
   - apiVersion: v1
     appVersion: 1.16.0
-    created: "2020-01-09T14:04:44.380931807+01:00"
+    created: "2020-01-09T15:00:15.091224355+01:00"
     description: A Helm chart for Kubernetes
     digest: 12ccb0680978d0f16088a8bb73b2f2c42665ce792f9a6d1f64ba3d1e020faf8f
     name: base-application
@@ -73,7 +83,7 @@ entries:
     version: 0.1.1
   - apiVersion: v1
     appVersion: 1.16.0
-    created: "2020-01-09T14:04:44.380264164+01:00"
+    created: "2020-01-09T15:00:15.090729464+01:00"
     description: A Helm chart for Kubernetes
     digest: 2e8ba50b199eece6782c8e8e45202382dd26303ef704ff64283a69baf0f980a7
     name: base-application
@@ -81,4 +91,4 @@ entries:
     urls:
     - base-application-0.1.0.tgz
     version: 0.1.0
-generated: "2020-01-09T14:04:44.37930914+01:00"
+generated: "2020-01-09T15:00:15.089899331+01:00"
